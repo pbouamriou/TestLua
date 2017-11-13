@@ -26,3 +26,5 @@ mac {
 HEADERS += \
     test2.h \
     test1.h
+
+OTHER_FILES += README.md LICENSE
