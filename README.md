@@ -1,6 +1,11 @@
 # TestLua
 Different experimentation with LUA (5.3)
 
+## Requirements
+
+QtCreator is needed to build this project (qmake).
+Tested on Mac.
+
 ## Links
 
 Here some links usefull to make this project :
